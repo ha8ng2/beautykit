@@ -1,0 +1,8 @@
+
+tmp/*
+phpMyAdmin/tmp/*
+apache/logs/*.log
+xampp-control.log
+apache/logs/access.log
+apache/logs/error.log
+xampp-control.log
